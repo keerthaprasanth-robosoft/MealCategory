@@ -1,0 +1,14 @@
+/* Text to display on the Expand Label */
+"viewMore" = " View More";
+
+/* Text to display on the Hide Label */
+"hide" = " Hide";
+
+/* Text to display on the title of the navigation bar */
+"navigationTitle" = "Meal Category";
+
+/* Text to display on error alert title */
+"errorTitle" = "Error";
+
+/* Text to display on error alert button title */
+"errorAlertButton" = "Ok";

@@ -7,7 +7,7 @@
 
 import XCTest
 
-final class RS_AssignmentUITestsLaunchTests: XCTestCase {
+final class RSAssignmentUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true

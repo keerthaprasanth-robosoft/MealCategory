@@ -8,7 +8,7 @@
 import XCTest
 @testable import RS_Assignment
 
-final class RS_AssignmentTests: XCTestCase {
+final class RSAssignmentTests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
