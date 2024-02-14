@@ -4,8 +4,9 @@
 //
 //  Created by Keerthaprasanth Ravikumar on 11/02/24.
 //
-import Foundation
+
 import Alamofire
+import Foundation
 
 enum APIError: Error {
     case decodingError

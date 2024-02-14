@@ -6,6 +6,7 @@
 //
 
 import Foundation
+
 struct MealCategoryModel: Codable {
     var category: [MealCategory]?
     enum CodingKeys: String, CodingKey {

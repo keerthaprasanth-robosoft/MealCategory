@@ -5,8 +5,8 @@
 //  Created by Keerthaprasanth Ravikumar on 11/02/24.
 //
 
-import UIKit
 import Nuke
+import UIKit
 
 // MARK: - MealTableViewDelegate Protocol
 

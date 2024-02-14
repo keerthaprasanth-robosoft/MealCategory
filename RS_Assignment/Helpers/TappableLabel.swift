@@ -5,8 +5,8 @@
 //  Created by Keerthaprasanth Ravikumar on 12/02/24.
 //
 
-import UIKit
 import Foundation
+import UIKit
 
 // MARK: - TappableLabel
 
